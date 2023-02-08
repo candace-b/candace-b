@@ -5,7 +5,7 @@ Currently I’m seeking employment as a data analyst in the Austin area. My curr
 
 ### 🔗🛠️Core Competencies
 - Languages: Python, SQL
-- Favorite Tools: Big Query, Google Colab, JupyterLab, Tableau, Excel, Python Libraries: pandas, plotly, sklearn, scipy.stats
+- Favorite Tools: Big Query, Google Colab, JupyterLab, Tableau, Excel, *Python Libraries: pandas, plotly, sklearn, scipy.stats
 - Themes: spatial distribution analysis, RFM analysis, hypothesis testing
 
 ### 🔗🙌Connect with Me 
